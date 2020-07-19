@@ -20,6 +20,6 @@
 
 7) Install following libraries:  
 
-https://github.com/bblanchon/ArduinoJson  
-https://github.com/ivanseidel/LinkedList  
+https://github.com/bblanchon/ArduinoJson  5.13.4
+https://github.com/ivanseidel/LinkedList  1.2.3
 https://github.com/squix78/esp8266-oled-ssd1306  
